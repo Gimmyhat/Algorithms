@@ -5,6 +5,8 @@
 # задачи. Результаты анализа вставьте в виде комментариев к коду. Также укажите в комментариях версию Python и
 # разрядность вашей ОС.
 
+# Python 3.10 Windows 64
+
 from memory_profiler import memory_usage
 from timeit import default_timer
 from pympler import asizeof
